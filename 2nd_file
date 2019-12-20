@@ -1,0 +1,9 @@
+#!/bin/usr/bash
+
+#this is a test script
+
+
+ls / -lR
+
+
+echo "All files show as above."
