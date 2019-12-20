@@ -4,3 +4,6 @@
 
 
 ls / -lR
+
+
+echo "All files show as above."
